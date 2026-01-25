@@ -3,6 +3,9 @@
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte do desafio da **DIO** para criar um modelo de Machine Learning pra de prever as vendas de sorvete com base na temperatura do dia. O objetivo é ajudar a sorveteria **Gelato Mágico** a planejar sua produção e evitar desperdícios.
 
+## Melhorias
+De melhoria eu quero fazer com que quando o predict.py nao achar uma temperatura que retorne as vendas, ele pegue algo aproximado do valor e retorne um valor mais perto pra retornar um valor 
+
 ## Tecnologias Utilizadas
 * **Python** (Linguagem principal)
 * **Pandas** (Manipulação de dados)
