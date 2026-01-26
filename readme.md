@@ -27,4 +27,4 @@ O modelo apresentou um $R^2$ alto, indicando que a temperatura é um excelente p
 
 O Projeto no basico é isso, fiz uma machine learning mais basiquinha porque ainda to aprendendo
 ---
-*Projeto desenvolvido por [Seu Nome] para o Bootcamp de Machine Learning.*
+*Projeto desenvolvido por Pablo para o Bootcamp de Machine Learning.*
