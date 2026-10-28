@@ -1,0 +1,9 @@
+# artefatos gerados pelo MLflow ao treinar
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
